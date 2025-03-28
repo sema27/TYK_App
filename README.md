@@ -10,7 +10,6 @@ Geliştirilen uygulama C# dilinde yazılmış masaüstü bir takip uygulamasıd�
 - Admin tarafından kullanıcılara yetkilendirme yapma (Authorization)
 
 ![image](https://github.com/user-attachments/assets/029c86c5-3f68-417a-b560-979c6315c2cc)
-![image](https://github.com/user-attachments/assets/cbdd0c66-f2b3-48ee-ab39-7820bb07ccbc)
 ![image](https://github.com/user-attachments/assets/a8221dc7-50ba-437c-88f2-fbc9c7e4c2cf)
 ![image](https://github.com/user-attachments/assets/1d10ecad-ee0d-4620-8c1d-3d8078e66017)
 ![image](https://github.com/user-attachments/assets/dd77f330-f871-41e1-9b4b-c3994adc033b)
