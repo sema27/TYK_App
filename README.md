@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cbdd0c66-f2b3-48ee-ab39-7820bb07ccbc)Geliştirilen uygulama C# dilinde yazılmış masaüstü bir takip uygulamasıdır. Teknofeste proje çıkaran öğrenci bilgilerini, takım bilgilerini, bu projeler için temin edilen envanterlerin bilgileri ve takibi, ayrıca analizlerine ulaşılabilmektedir. Yapılan İşlemler : 
+Geliştirilen uygulama C# dilinde yazılmış masaüstü bir takip uygulamasıdır. Teknofeste proje çıkaran öğrenci bilgilerini, takım bilgilerini, bu projeler için temin edilen envanterlerin bilgileri ve takibi, ayrıca analizlerine ulaşılabilmektedir. Yapılan İşlemler : 
 - Öğrenci listeleme, ekleme, silme, güncelleme
 - Takım listeleme, ekleme, silme, güncelleme
 - Toplu öğrenci ve takım eklemek için Excel ile içe aktarma
@@ -9,6 +9,7 @@
 - Yetkilendirme ile giriş yaparak belirlenen sayfalara erişim (Authentication)
 - Admin tarafından kullanıcılara yetkilendirme yapma (Authorization)
 
+![image](https://github.com/user-attachments/assets/cbdd0c66-f2b3-48ee-ab39-7820bb07ccbc)
 ![image](https://github.com/user-attachments/assets/029c86c5-3f68-417a-b560-979c6315c2cc)
 ![image](https://github.com/user-attachments/assets/a8221dc7-50ba-437c-88f2-fbc9c7e4c2cf)
 ![image](https://github.com/user-attachments/assets/1d10ecad-ee0d-4620-8c1d-3d8078e66017)
