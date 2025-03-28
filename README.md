@@ -1,4 +1,4 @@
-Geliştirilen uygulama C# dilinde yazılmış masaüstü bir takip uygulamasıdır. Teknofeste proje çıkaran öğrenci bilgilerini, takım bilgilerini, bu projeler için temin edilen envanterlerin bilgileri ve takibi, ayrıca analizlerine ulaşılabilmektedir. Yapılan İşlemler : 
+Geliştirilen uygulama C# dilinde yazılmış masaüstü bir takip uygulamasıdır. Yarışmalara proje çıkaran öğrenci bilgilerini, takım bilgilerini, bu projeler için temin edilen envanterlerin bilgileri ve takibi, ayrıca analizlerine ulaşılabilmektedir. Yapılan İşlemler : 
 - Öğrenci listeleme, ekleme, silme, güncelleme
 - Takım listeleme, ekleme, silme, güncelleme
 - Toplu öğrenci ve takım eklemek için Excel ile içe aktarma
