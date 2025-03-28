@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "storage2": {
+      "restored": true,
+      "restoreTime": "2024-09-12T11:24:01.6664214Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-09-10T18:57:23.5030623Z"
+    },
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2024-09-10T18:58:06.446529Z"
+    }
+  },
+  "parameters": {
+    "storage2.resourceGroupName": {
+      "Name": "storage2.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "tyk"
+    },
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "tyk"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "db45ea36-280d-4bb7-aadf-d8366af86846"
+    },
+    "storage2.subscriptionId": {
+      "Name": "storage2.subscriptionId",
+      "Type": "subscription",
+      "Value": "db45ea36-280d-4bb7-aadf-d8366af86846"
+    }
+  }
+}

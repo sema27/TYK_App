@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\sakar\source\repos\TYK_App\TYK_App\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="CalendarInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Categories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CategoryInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilterCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilterCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilterFixedStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilterReportTracing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilterStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilterStockTracing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilterStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilterTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilterUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FixedStockInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Calendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportMenuInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportTracing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportTracingInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StockInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StockMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FixedStocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StockMenuInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StockTracing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StockTracingInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StatisticsReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeamInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teams.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

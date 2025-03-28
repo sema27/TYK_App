@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TYK_App", "TYK_App\TYK_App.csproj", "{C23C063E-E1E1-44CE-BE58-D3B24CC6049A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupTYK", "SetupTYK\SetupTYK.vdproj", "{947D3057-AD73-49D3-A98F-F110979D901C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C23C063E-E1E1-44CE-BE58-D3B24CC6049A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23C063E-E1E1-44CE-BE58-D3B24CC6049A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23C063E-E1E1-44CE-BE58-D3B24CC6049A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23C063E-E1E1-44CE-BE58-D3B24CC6049A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947D3057-AD73-49D3-A98F-F110979D901C}.Debug|Any CPU.ActiveCfg = Debug
+		{947D3057-AD73-49D3-A98F-F110979D901C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A00106-F257-490C-A9CF-AA0DA06F956E}
+	EndGlobalSection
+EndGlobal

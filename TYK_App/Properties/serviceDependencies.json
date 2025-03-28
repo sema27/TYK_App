@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "tyk",
+      "dynamicId": null
+    },
+    "storage2": {
+      "type": "storage",
+      "connectionId": "tyk:blob",
+      "dynamicId": null
+    }
+  }
+}
